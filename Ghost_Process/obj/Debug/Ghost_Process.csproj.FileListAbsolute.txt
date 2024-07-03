@@ -1,0 +1,10 @@
+E:\개발2023\NET_JSONAPI\UDP통신\Ghost_Process\Ghost_Process\obj\Debug\Ghost_Process.csproj.AssemblyReference.cache
+E:\개발2023\NET_JSONAPI\UDP통신\Ghost_Process\Ghost_Process\obj\Debug\Ghost_Process.Form1.resources
+E:\개발2023\NET_JSONAPI\UDP통신\Ghost_Process\Ghost_Process\obj\Debug\Ghost_Process.Properties.Resources.resources
+E:\개발2023\NET_JSONAPI\UDP통신\Ghost_Process\Ghost_Process\obj\Debug\Ghost_Process.csproj.GenerateResource.cache
+E:\개발2023\NET_JSONAPI\UDP통신\Ghost_Process\Ghost_Process\obj\Debug\Ghost_Process.csproj.CoreCompileInputs.cache
+E:\개발2023\NET_JSONAPI\UDP통신\Ghost_Process\Ghost_Process\obj\Debug\Ghost_Process.exe
+E:\개발2023\NET_JSONAPI\UDP통신\Ghost_Process\Ghost_Process\obj\Debug\Ghost_Process.pdb
+E:\개발2023\NET_JSONAPI\UDP통신\Ghost_Process\Ghost_Process\bin\Debug\Ghost_Process.exe.config
+E:\개발2023\NET_JSONAPI\UDP통신\Ghost_Process\Ghost_Process\bin\Debug\Ghost_Process.exe
+E:\개발2023\NET_JSONAPI\UDP통신\Ghost_Process\Ghost_Process\bin\Debug\Ghost_Process.pdb
